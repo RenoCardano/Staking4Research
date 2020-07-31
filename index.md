@@ -14,7 +14,6 @@ The plepleade is locked for 5 years.
 
 ### ABOUT ME
 I am a software developer based in the France. I am a former researcher in biology more particularly in the field of biochemitry and age-related diseases.
-That is why I was to take this opportunity to keep supporting scientific effort. 
 
 ### STAKE POOL INFORMATION
 
