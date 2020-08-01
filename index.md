@@ -7,6 +7,14 @@ Dear Cardanians, using our services, you can stake you ADA securely and passivel
 2) Gain 5% rewards per year
 3) Support cancer research
 
+### SERVER INFORMATION
+
+Staking4research is operated on Digital Ocean Droplets offering 99.99% server uptime. The server is located in Frankfurt and running on Ubuntu 20.04.
+The plepleade is locked for 5 years.
+
+### ABOUT ME
+I am a software developer based in the France. I am a former researcher in biology more particularly in the field of biochemitry and age-related diseases.
+
 ### STAKE POOL INFORMATION
 
 Ticker: [S4R]
