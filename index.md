@@ -6,10 +6,10 @@ This year, we would like to support “la Ligue contre le cancer“: https://don
 If you wish to share the name of other institutions with us,you can submit your proposal by email.
 
 ### WHY CHOOSING US ?
-<li> Safe and low fees staking on a 99.99% uptime virtual server.
-<li> Passively earn 5% rewards per year.
-<li> We provide a substantial pledge of 100.000 ADA to ensure getting rewards and we propose low fees 1.5%.
-<li>Make the world a better place by supporting research.
+-Safe and low fees staking on a 99.99% uptime virtual server.
+-Passively earn 5% rewards per year.
+-We provide a substantial pledge of 100.000 ADA to ensure getting rewards and we propose low fees 1.5%.
+-Make the world a better place by supporting research.
 
 ### SERVER INFORMATION
 
