@@ -7,9 +7,11 @@ If you wish to share the name of other institutions with us,you can submit your 
 
 ### WHY CHOOSING US ?
 
-### Safe and low fees staking on a 99.99% uptime virtual server
-### Passivelyc earn 5% rewards per year
-### We provide a substantial pledge of 150.000 ADA to ensure getting rewards and we propose low fees 1.5%.
+<ul><li> Safe and low fees staking on a 99.99% uptime virtual server <li><li>
+Passively earn 5% rewards per year <li><li>
+We provide a substantial pledge of 100.000 ADA to ensure getting rewards and we propose low fees 1.5%.<li><li>
+Make the world a better place by supporting research <li><ul>
+
 ### Support Cancer Research
 
 ### SERVER INFORMATION
@@ -21,8 +23,8 @@ I am a software developer based in France. I am a former researcher in biology, 
 
 ### STAKE POOL INFORMATION
 
-Ticker: [S4S]
-Name: Staking for Science
+<ul><li>Ticker: [S4S] <li><li>
+Name: Staking for Science <li><ul>
 
 ### SUPPORT AND CONTACT
 
