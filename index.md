@@ -6,12 +6,13 @@ This year, we would like to support “la Ligue contre le cancer“: https://don
 If you wish to share the name of other institutions with us,you can submit your proposal by email.
 
 ### WHY CHOOSING US ?
-
-<ul><li> Safe and low fees staking on a 99.99% uptime virtual server.
+<li> Safe and low fees staking on a 99.99% uptime virtual server.
 <li> Passively earn 5% rewards per year.
 <li> We provide a substantial pledge of 100.000 ADA to ensure getting rewards and we propose low fees 1.5%.
 <li>Make the world a better place by supporting research.
   
+
+
 ### SERVER INFORMATION
 
 Staking4research is operated on Digital Ocean Droplets offering a 99.99% server uptime. The server is located in Frankfurt and runs on Ubuntu 20.04. More relay will soon be added to the network inLille, France. The pledge is locked for 5 years
