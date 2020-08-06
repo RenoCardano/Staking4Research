@@ -10,15 +10,10 @@ If you wish to share the name of other institutions with us,you can submit your 
 <li> Passively earn 5% rewards per year.
 <li> We provide a substantial pledge of 100.000 ADA to ensure getting rewards and we propose low fees 1.5%.
 <li>Make the world a better place by supporting research.
-  
-
 
 ### SERVER INFORMATION
 
-Staking4research is operated on Digital Ocean Droplets offering a 99.99% server uptime. The server is located in Frankfurt and runs on Ubuntu 20.04. More relay will soon be added to the network inLille, France. The pledge is locked for 5 years
-
-### ABOUT ME
-I am a software developer based in France. I am a former researcher in biology, more specifically in biochemistry and age-related diseases.
+Doge Pool is operated on Digital Ocean Droplets offering 99.99% server uptime. Our core server is located in Germany and is protected by two proxy relays located in France (Lille) and England (London). All servers are running on Ubuntu 20.04. We love the Cardano community and we are keen to work toward increasing decentralisation and Cardano awareness. The pledge is locked for 5 years
 
 ### STAKE POOL INFORMATION
 
