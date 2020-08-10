@@ -7,8 +7,9 @@ If you wish to share the name of other institutions with us,you can submit your 
 
 ### WHY CHOOSING US ?
 -Safe and low fees staking on a 99.99% uptime virtual server.
--Passively earn 5% rewards per year.
--We provide a substantial pledge of 100.000 ADA to ensure getting rewards and we propose low fees 1.5%.
+
+-Passively earn 5% rewards per year
+
 -Make the world a better place by supporting research.
 
 ### SERVER INFORMATION
