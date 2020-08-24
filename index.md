@@ -4,7 +4,7 @@ Dear Cardanians, using our services you can stake you ADA safely and passively E
 
 We provide a substantial pledge of 30.000 ADA to ensure getting rewards and we propose NO FEE (0%) until reaching pool saturation. Then we will apply a 2% variable fee to better involve our deleguators and increase donation to research institution. 
 
-Current live stake : 263 540 ADA : To all of you, thanks for your trust! 
+Current live stake : 642 200 ADA : To all of you, thanks for your trust! 
 
 ### WE ARE PROUD TO ANNOUNCE OUR FIRST BLOCK MADE TODAY 19/08/2020 GET PREPARE TO GET YOUR REWARDS
 ![u2exlarge20](https://raw.githubusercontent.com/RenoCardano/Staking4Research/master/firstblock.jpg)
