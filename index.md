@@ -31,9 +31,12 @@ Ticker: [S4S]
 Name: Staking for Science
 Current live stake : 256 000 ADA
 
-### WE HAVE A VERY HIH PERFORMANCE AND RETURN ON INVESTMENT (ROS) 
+### WE HAVE A VERY HIGH PERFORMANCE AND RETURN ON INVESTMENT (ROS)
+
 ![u2exlarge20](https://renocardano.github.io/Staking4Research/ROS.PNG)
-those data are taken from pooltool.io (https://pooltool.io/pool/4bfc123fbeb5521bd8c98e43dad2c5e40b0032d9900ff6a02296e98f/epochs)
+
+data are taken from pooltool.io (https://pooltool.io/pool/4bfc123fbeb5521bd8c98e43dad2c5e40b0032d9900ff6a02296e98f/epochs)
+
 ### SUPPORT AND CONTACT
 
 If you have any question or suggestion, or if you would like to submit a proposal, please write to stakinglillois@gmail.com. We will be happy to help you out. We will get back to you within 2 hours. ###
