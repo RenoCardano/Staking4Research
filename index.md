@@ -12,12 +12,12 @@ The profit are obtained from 3% fees + pledge rewards.
 
 -Safe staking on a 99.99% uptime virtual server.
 
--Passively earn 5% rewards per year
+-Passively earn around 7% rewards per year (ROS)
 
 -Make the world a better place by supporting research.
 
 
-We provide a substantial pledge of 30.000 ADA to ensure getting rewards we will apply a 2% variable fee to better involve our deleguators and increase donation to research institution. 
+We provide a substantial pledge of 30.000 ADA to ensure getting rewards we will apply a 3% variable fee to better involve our deleguators and increase donation to research institution. 
 
 
 ### SERVER INFORMATION
@@ -29,7 +29,7 @@ Our pool is operated on Digital Ocean Droplets offering 99.99% server uptime. Ou
 
 Ticker: [S4S]
 Name: Staking for Science
-Current live stake : 256 000 ADA
+Current live stake : 290 000 ADA
 
 ### WE HAVE A VERY HIGH PERFORMANCE AND RETURN ON INVESTMENT (ROS)
 
