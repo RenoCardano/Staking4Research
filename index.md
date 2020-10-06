@@ -33,7 +33,7 @@ Current live stake : 290 000 ADA
 
 ### WE HAVE A VERY HIGH PERFORMANCE AND RETURN ON INVESTMENT (ROS)
 
-![u2exlarge20](https://github.com/RenoCardano/Staking4Research/blob/master/ROS.PNG
+![u2exlarge20](https://github.com/RenoCardano/Staking4Research/blob/master/ROS.PNG)
 
 data are taken from pooltool.io (https://pooltool.io/pool/4bfc123fbeb5521bd8c98e43dad2c5e40b0032d9900ff6a02296e98f/epochs)
 
